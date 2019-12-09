@@ -1,0 +1,25 @@
+*.class
+
+#package ignore
+*.war
+*.ear
+
+#maven ignore
+target/
+
+#idea ignore
+.idea
+/idea/
+*.iml
+*.iws
+*.ipr
+
+#temp ignore
+*.log
+*.cache
+*.diff
+*.tmp
+*.patch
+
+#system ignore
+
